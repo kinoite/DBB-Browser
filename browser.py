@@ -6,7 +6,6 @@ from PyQt5.QtWidgets import (
     QToolBar, QFileDialog, QMessageBox, QPushButton, QProgressBar, QStyleFactory, 
     QLabel, QHBoxLayout, QTabBar, QMenu)
 from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEngineProfile
-from PyQt5.QtWebEngineCore import QWebEngineUrlRequestInterceptor
 from PyQt5.QtCore import QUrl, Qt, pyqtSignal, QObject, QEventLoop, QTimer
 from PyQt5.QtGui import QKeySequence
 
