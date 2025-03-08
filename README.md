@@ -96,7 +96,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you encounter issues running the application, ensure that all dependencies are installed and up-to-date. If `Qt5Core.dll` is missing, make sure to install or update `PyQt5` and `PyQtWebEngine`, and verify that the DLL files are present in your Python environment's `site-packages` directory.
 
 For further assistance, please check the [GitHub Issues](https://github.com/BorgorNinja/Borgor-Browser/issues) page or create a new issue with details about the problem you're facing.
-
----
-
-Feel free to replace `yourusername` with your actual GitHub username and adjust the repository URL accordingly. This `README.md` provides a comprehensive guide to setting up, using, and contributing to your QtWebEngine browser project.
