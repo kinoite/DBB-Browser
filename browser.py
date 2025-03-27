@@ -18,7 +18,7 @@ class Browser(QMainWindow):
     def __init__(self):
         super().__init__()
 
-        self.setWindowTitle("Enhanced QTWebEngine Browser")
+        self.setWindowTitle("Borgor Browser")
         self.setGeometry(100, 100, 1200, 800)
 
         # Initialize bookmarks list and dark mode state
