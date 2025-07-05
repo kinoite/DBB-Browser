@@ -10,6 +10,7 @@ DBB is written with the PySide6 library, essentially being a PySide6 rewrite wit
 * Everything from Borgor Browser
 * Nicer UI
 * Download manager
+* A simple and small adblocker (only blocks contextual ads for now)
 * *and much more soon*
 
 ---
