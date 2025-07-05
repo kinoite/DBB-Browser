@@ -15,3 +15,4 @@ DBB is written with the PySide6 library, essentially being a PySide6 rewrite wit
 ---
 
 ## Gallery
+![DBB in action](/gallery/image.webp)
